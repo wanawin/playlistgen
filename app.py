@@ -1,3 +1,2 @@
-pip install streamlit numpy
+pip install streamlit
 streamlit run app.py
-
